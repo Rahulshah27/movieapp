@@ -1,0 +1,48 @@
+[{ 
+ "productId": 1,
+ "backdrop_path":"/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
+ "pc_type":"workstation",
+ "end_type":"high",
+ "title": "High End",
+ "subtitle": "MAXIMUM PERFORMANCE",
+ "overview": "test",
+ "price": "Rs. 1,23,000",
+ "processors": "AMD 5000",
+ "gpu": "RTX 3090",
+ "ram": "32GB",
+ "storage": "4TB",
+ "psu": "GOLD"
+ },
+
+ { 
+ "productId": 2,
+ "backdrop_path":"/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
+ "pc_type":"workstation",
+ "end_type":"high",
+ "title": "High End",
+ "subtitle": "MAXIMUM PERFORMANCE",
+ "overview": "test",
+ "price": "Rs. 1,23,000",
+ "processors": "AMD 5000",
+ "gpu": "RTX 3090",
+ "ram": "32GB",
+ "storage": "4TB",
+ "psu": "GOLD"
+ },
+ 
+ { 
+ "productId": 3,
+ "backdrop_path":"/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
+ "pc_type":"workstation",
+ "end_type":"high",
+ "title": "High End",
+ "subtitle": "MAXIMUM PERFORMANCE",
+ "overview": "test",
+ "price": "Rs. 1,23,000",
+ "processors": "AMD 5000",
+ "gpu": "RTX 3090",
+ "ram": "32GB",
+ "storage": "4TB",
+ "psu": "GOLD"
+}
+]
